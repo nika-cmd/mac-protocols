@@ -1,9 +1,13 @@
 # mac-protocols
 
+From class assignment
+
 ## compiling and running program
+
 Check out user manual for instructions how to run program <br>
 
 ## notes
+
 * items are represented by an integer, but when being scanned is represented in binary where number of bits is K
 * customer text files represent items in basket
 * at nodes... collision is when more than 1 item fits  the node description, idle is when no nodes fit description, and success is when an item is successfully scanned (bit match)
