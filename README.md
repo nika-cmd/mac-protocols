@@ -4,6 +4,7 @@
 ## compiling and running program
 
 Check out user manual for instructions how to run program <br>
+**Note: ran on Linux machine <br>
 
 ## notes
 
