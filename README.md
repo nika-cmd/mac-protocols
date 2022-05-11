@@ -1,6 +1,5 @@
 # mac-protocols
 
-From class assignment
 
 ## compiling and running program
 
